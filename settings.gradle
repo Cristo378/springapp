@@ -1,2 +1,2 @@
-rootProject.name="springapp"
+rootProject.name = 'springapp'
 include('webapp')
